@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+}
+::placeholder { 
+  color: black;
+  
+}
+#bir{
+  display: inline-block;
+  background-color: #EEEEEE;
+  height: 65px;
+  width: 1400px;
+}
+.container{
+  display: flex;
+    height: 170px;
+    width: 1400px;
+    margin:1px auto;
+  }
+#search{
+  width: 300px; 
+  
+}
+div {
+    display: inline-block;
+    height: 100px;
+    width: 400px;
+    margin:1px;
+}
+.one {
+  font-size: 20px;
+  background-color:#7EE5DA ;
+  width: 40%;
+  height: 50%;
+  margin:1px;
+}
+
+.two {
+  background-color: #70CCC2;
+  width: 25%;
+  height: 50%;
+  margin:1px;
+}
+.three {
+  background-color: #62B3AA;
+  width: 50%;
+  height: 50%;
+  margin:1px;
+}
+
+  
